@@ -26,6 +26,7 @@ book_str = book_str_nano
 #book_str = book_str_simple
 #book_str = book_str_basic
 #book_str = book_str_google
+#book_str = ""
 
 if (not book_str) :
   # read from google CSV file
