@@ -6,4 +6,4 @@ The books can be read from a file, or, you can use the string parameter.
 
 - TODO : The book_list has duplicate items (the only difference in the item is the category).   To correct this, more functionality should be added to :
   1. Loop through the book_list
-  1. ...follow logic in [books-publisher-category.py][books-publisher-category.py]
+  1. ...follow logic in [books-publisher-category.py](books-publisher-category.py)
