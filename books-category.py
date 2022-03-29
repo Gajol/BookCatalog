@@ -138,6 +138,9 @@ book_list = bubbleSortListofDict(book_list, 'title')
 book_list = bubbleSortListofDict(book_list, 'publisher')
 pprint.pprint(book_list)
 
+# # TODO: There are duplicate titles (as the CSV has a row for each category
+# and a book can be in more than one category
+
 # loop through books to check it is sorted by publisher then title.
 # book_list is a list of books
 for book in book_list:
